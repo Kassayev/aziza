@@ -1630,7 +1630,7 @@ body {
 	background: #406462;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	margin-top: 100px!important;
+	margin-top: 50px!important;
 }
 .kurmetti_1 {
 	text-align: center;
@@ -2613,7 +2613,7 @@ span.newprice {
 
 @media (max-width: 454px) {
 	.kurmetti {
-		margin-top: 100px!important;
+		margin-top: 50px!important;
 	}
 }
 
