@@ -2613,7 +2613,7 @@ span.newprice {
 
 @media (max-width: 454px) {
 	.kurmetti {
-		margin-top: 50px!important;
+		margin-top: 75px!important;
 	}
 }
 
