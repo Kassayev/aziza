@@ -1626,8 +1626,8 @@ body {
 .kurmetti {
 	text-align: center;
 	font-family: monument;
-	font-size: 17px;
-	background: #406462;
+	font-size: 15px;
+	background: #04403E;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	margin-top: 75px!important;
@@ -1636,7 +1636,7 @@ body {
 	text-align: center;
 	font-family: monument;
 	font-size: 22px;
-	background: #9c714b;
+	background: #04403E;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	margin-top: 20px!important;
@@ -1649,7 +1649,7 @@ body {
 	text-align: center;
 	font-family: asylbek;
 	font-size: 50px;
-	background: #406462;
+	background: #04403E;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	margin-top: 15px!important;
@@ -1685,7 +1685,7 @@ body {
 .toi1 {
 	font-family: monument;
 	font-size: 25px;
-  color: #9c714b;
+  color: #04403E;
 	margin-top: 165px;
 	margin-bottom: 20px;
 }
@@ -1697,7 +1697,7 @@ body {
 .toi3 {
 	font-family: asylbek;
 	font-size: 45px;
-  color: #406462;
+  color: #04403E;
 }
 
 .toi4 {
