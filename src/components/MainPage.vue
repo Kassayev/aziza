@@ -14,7 +14,7 @@
                             Cіздерді қызымыз
                         </h1>
                         <h1 class="saules_title">
-                            Cауленің Ұзату
+                            Азизаның Ұзату
                         </h1>
                       <h1 class="kurmetti_1 kurmetti_2">
                         Тойына арналған <br>
@@ -34,27 +34,27 @@
                               Той иелері
                             </div>
                             <div class="toi3">
-                              Қайрат-Шайза
+                              Қамбар – Айгүл
                             </div>
                             <div class="toi3">
-                              2024
+                              2025
                             </div>
                             <h1 class="monument brow font-xs">
-                              23 маусым
+                              22 ақпан
                             </h1>
                             <h1 class="monument brow font-xs">
-                              16:00
+                              18:00
                             </h1>
                             <h1 class="monument brow font-xs mt-3">
                               Мекен-жаймыз:
                             </h1>
                             <h1 class="asylbek blue font-ml mt-3">
-                              Астана қаласы <br>
-                              Хусейн Бен Талал көшесі 25 <br>
-                              "Wyndham Garden Astana" <br>
+                              Ұзынағаш<br>
+                              Қараш батыр 156 <br>
+                              "Ақ - тілек" <br>
                               мейрамханасы
                             </h1>
-                          <a target="_blank" href="https://2gis.kz/astana/geo/70000001027222031/71.407466,51.082111" class="twogis mt-3">Карта арқылы ашу</a>
+                          <a target="_blank" href="https://2gis.kz/almaty/geo/70000001059262852/76.314269,43.213353" class="twogis mt-3">Карта арқылы ашу</a>
                             <div style="    width: 100%;">
                             </div>
                             <div class="toi5">
@@ -72,31 +72,33 @@
                             </div>
                             <div class="toi8"></div>
                             <h1 class="asylbek blue font-l mt-3">
+<!--
                               Құрметті ханымдар!
+-->
                             </h1>
                           <h1 class="asylbek blue font-l mt-3">
-                            Киім үлгіңізді төмендегі<br>
-                            түстерден таңдауыңызды сұраймыз!
+<!--                            Киім үлгіңізді төмендегі<br>
+                            түстерден таңдауыңызды сұраймыз!-->
                           </h1>
-                            <div class="toi10 palette mt-4">
+<!--                            <div class="toi10 palette mt-4">
                               <div class="palette__row mb-2">
-                                <div class="palette__item palette__item--1 mr-3"></div>
-                                <div class="palette__item palette__item--2 mr-2"></div>
-                                <div class="palette__item palette__item--3"></div>
+                                <div class="palette__item palette__item&#45;&#45;1 mr-3"></div>
+                                <div class="palette__item palette__item&#45;&#45;2 mr-2"></div>
+                                <div class="palette__item palette__item&#45;&#45;3"></div>
                               </div>
                               <div class="palette__row">
-                                <div class="palette__item palette__item--4 mr-2"></div>
-                                <div class="palette__item palette__item--5 mr-2"></div>
-                                <div class="palette__item palette__item--6 mr-2"></div>
-                                <div class="palette__item palette__item--7"></div>
+                                <div class="palette__item palette__item&#45;&#45;4 mr-2"></div>
+                                <div class="palette__item palette__item&#45;&#45;5 mr-2"></div>
+                                <div class="palette__item palette__item&#45;&#45;6 mr-2"></div>
+                                <div class="palette__item palette__item&#45;&#45;7"></div>
                               </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="blok-5 sitecontainer">
+<!--        <div class="blok-5 sitecontainer">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -128,7 +130,7 @@
                 </div>
             </div>
             <audio-player></audio-player>
-        </div>
+        </div>-->
     </div>
 </template>
 
@@ -204,7 +206,7 @@ export default{
         this.$nextTick(() => {
             // конечная дата
             //const deadline = new Date(2022, 11, 05, 18:00:00);
-            const deadline = new Date(2024, 5, 23, 16, 0, 0);
+            const deadline = new Date(2025, 1, 22, 18, 0, 0);
             // new Date(yyyy, mm-1, dd, hh, mm, ss);
             // id таймера
             let timerId = null;

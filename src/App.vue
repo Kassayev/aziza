@@ -1519,7 +1519,7 @@ body {
 
 .blok-1 {
 	/* background-image: url(./assets/images/fon-default.png); */
-	background-image: url(./assets/images/saule-min.png);
+	background-image: url(./assets/images/main-bg-min.png);
 	background-position: center 0;
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -1630,7 +1630,7 @@ body {
 	background: #406462;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	margin-top: 530px!important;
+	margin-top: 100px!important;
 }
 .kurmetti_1 {
 	text-align: center;
@@ -1643,6 +1643,7 @@ body {
 }
 .kurmetti_2 {
   font-size: 17px;
+  padding-bottom: 240px;
 }
 .saules_title {
 	text-align: center;
@@ -1678,6 +1679,7 @@ body {
     padding-bottom: 10px;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 10px;
 }
 
 .toi1 {
@@ -1722,10 +1724,10 @@ body {
 .toi8 {
 	height: 1px;
 	width: 70%;
-	margin: 0 auto;
-	background: #EDEDED;
+	margin: 0 auto;/*
+	background: #EDEDED;*/
 	margin-top: 30px;
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 }
 
 .toi9 {
@@ -2611,7 +2613,7 @@ span.newprice {
 
 @media (max-width: 454px) {
 	.kurmetti {
-		margin-top: 480px!important;
+		margin-top: 100px!important;
 	}
 }
 
