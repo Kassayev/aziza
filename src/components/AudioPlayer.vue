@@ -5,17 +5,18 @@
       </audio>
       <div class="sound">
             <div v-if="!playing" @click="togglePlayback" class="sound-on">
-                <img src="@/assets/images/sound-on.gif">
+<!--                <img src="@/assets/images/sound-on.gif">-->
                 <span>Әуен қосу</span>
             </div>
             <div v-if="playing" @click="togglePlayback" class="sound-on sound-off">
-                <img class="sound-off-svg" src="@/assets/images/sound-off.svg">
-                <img class="sound-off-gif" src="@/assets/images/sound-off.gif">
+<!--                <img class="sound-off-svg" src="@/assets/images/sound-off.svg">
+                <img class="sound-off-gif" src="@/assets/images/sound-off.gif">-->
             </div>
         </div>
     </div>
   </template>
   
+<!--
   <script>
   import audioFile from "@/assets/audio/audio.mp3";
   export default {
@@ -48,4 +49,4 @@
       },
     },
   };
-  </script>
+  </script>-->

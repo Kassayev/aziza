@@ -1619,7 +1619,7 @@ body {
 }
 
 .palette__item--7 {
-  background-image: url("./assets/images/color7.jpg");
+  /*background-image: url("./assets/images/color7.jpg");*/
   background-size: contain;
 }
 
