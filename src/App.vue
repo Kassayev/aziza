@@ -1538,7 +1538,7 @@ body {
 }
 
 .brow {
-  color: #9c714b;
+  color: #04403E;
 }
 
 .blue {
@@ -1626,7 +1626,7 @@ body {
 .kurmetti {
 	text-align: center;
 	font-family: monument;
-	font-size: 15px;
+	font-size: 14px;
 	background: #04403E;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -1708,7 +1708,7 @@ body {
 	font-family: monument;
 	margin-top: 30px;
 	margin-bottom: 20px;
-  color: #9c714b;
+  color: #04403E;
   font-size: 17px;
 }
 
@@ -1856,7 +1856,7 @@ a.link-peaksoft {
 .prigtitle {
 	font-family: monument;
 	font-size: 24px;
-  color: #9c714b;
+  color: #04403E;
 	text-align: center;
 	line-height: 26px;
 	margin-top: 60px;
