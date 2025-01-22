@@ -1630,7 +1630,7 @@ body {
 	background: #406462;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	margin-top: 50px!important;
+	margin-top: 75px!important;
 }
 .kurmetti_1 {
 	text-align: center;
